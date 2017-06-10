@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SuperHero Wallpaper</string>
+
+    <string-array name="image_ids">
+        <item>@drawable/a84</item>
+		<item>@drawable/a100</item>
+        <item>@drawable/a105</item>
+        <item>@drawable/a108</item>
+        <item>@drawable/a109</item>
+        <item>@drawable/a112</item>
+        <item>@drawable/a118</item>
+        <item>@drawable/a137</item>
+        <item>@drawable/a144</item>
+        <item>@drawable/a149</item>
+    </string-array>
+
+</resources>
